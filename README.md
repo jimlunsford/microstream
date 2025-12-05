@@ -1,3 +1,5 @@
+> Status: On hold. This project is an experiment and is not under active development.
+
 # Microstream
 
 Microstream is a lightweight self hosted microblog app written in PHP that runs on shared hosting and lets sites follow each other using the Microstream Protocol v1.0.

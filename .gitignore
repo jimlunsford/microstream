@@ -1,0 +1,47 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Composer
+/vendor/
+composer.lock
+
+# Logs and cache
+*.log
+logs/
+cache/
+tmp/
+temp/
+
+# Environment and config
+.env
+.env.*
+config.local.php
+config.dev.php
+config.test.php
+
+# Uploaded files and runtime storage
+uploads/
+public/uploads/
+storage/
+public/storage/
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Node stuff (if you add tooling later)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Misc build artifacts
+/dist/
+build/
